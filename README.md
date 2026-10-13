@@ -169,24 +169,4 @@ Current Version:
 v1.0.0
 ```
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Abdul Mosawer Wadan**
-
-Computer Engineering Student
-
-Amirkabir University of Technology (Tehran Polytechnic)
-
-GitHub: https://github.com/Wadan3
-
----
-
 ⭐ If you found this project useful, consider giving it a star.
