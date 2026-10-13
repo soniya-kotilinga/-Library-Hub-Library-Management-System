@@ -3,7 +3,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![OOP](https://img.shields.io/badge/OOP-Object%20Oriented-blue)
-![MIT License](https://img.shields.io/badge/License-MIT-green
+![MIT License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Console-lightgrey)
 
 A robust Java-based Library Management System developed using Object-Oriented Programming principles. The application allows librarians to manage books, members, borrowing operations, and returns through an interactive console interface.
